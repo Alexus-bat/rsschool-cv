@@ -30,7 +30,7 @@ Education
 ----------
 **2014 - 2019 - Belarusian State University of Informatics and Radioelectronics**, *engineer IT*
 
--------------------
+------------------
 Languages:
 -----------
 * Russian (native)
